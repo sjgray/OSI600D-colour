@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "OhioScientific") (type "Legacy") (uri "C:/Users/steve/KiCadProjects/_SteveLib/OhioScientific.lib") (options "") (descr ""))
+	(lib (name "OSI-600D-colour-min-cache") (type "Legacy") (uri "Z:/Personal/Steve/MyProjects/_KiCadProjects/_Completed/OSI 600D-Colour-Min/OSI-600D-colour-min-cache.lib") (options "") (descr "Legacy project cache library"))
+)
